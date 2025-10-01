@@ -11,9 +11,8 @@ at least 5 currencies).
 7. App should target SDK 34 or 35 (no lower limit on min SDK).
 
 Other functionality:
-● Support decimal precision control (user can choose 0, 2, or 4 or more decimal
-places).
-● Add reverse conversion (swap base and target currency with one button).
-● Include real-time date/time display of conversion.
-● Provide conversion history (list of last 5 conversions).
-● Add support for dark mode (automatic theme switch).
+1. Support decimal precision control (user can choose 0, 2, or 4 or more decimal places).
+2. Add reverse conversion (swap base and target currency with one button).
+3. Include real-time date/time display of conversion.
+4. Provide conversion history (list of last 5 conversions).
+5. Add support for dark mode (automatic theme switch).
