@@ -1,3 +1,5 @@
+Calculator: currency converter
+
 Implemented based on https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3?hl=en.
 
 Core functionality:
